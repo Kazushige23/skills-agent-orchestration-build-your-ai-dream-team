@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "name": "Atlas Onboarding",
+      "owner": "Priya Nair",
+      "status": "On track",
+      "recentActivity": "Completed the guided setup usability review with 92% task success.",
+      "priority": "High"
+    },
+    {
+      "name": "Beacon Billing",
+      "owner": "Marcus Chen",
+      "status": "At risk",
+      "recentActivity": "Payment-provider certification is awaiting one final compliance response.",
+      "priority": "High"
+    },
+    {
+      "name": "Compass Mobile",
+      "owner": "Elena Rossi",
+      "status": "Active",
+      "recentActivity": "The iOS and Android release candidates entered regression testing.",
+      "priority": "Medium"
+    },
+    {
+      "name": "Drift Analytics",
+      "owner": "Jordan Williams",
+      "status": "On track",
+      "recentActivity": "The first customer cohort is now receiving the weekly insights digest.",
+      "priority": "Medium"
+    },
+    {
+      "name": "Evergreen Accessibility",
+      "owner": "Samira Okafor",
+      "status": "Blocked",
+      "recentActivity": "Keyboard navigation work is paused while the shared component fix is reviewed.",
+      "priority": "High"
+    },
+    {
+      "name": "Foundry API",
+      "owner": "Theo Martin",
+      "status": "Completed",
+      "recentActivity": "The v2 API contract and migration guide were published for partner teams.",
+      "priority": "Low"
+    }
+  ]
+}
